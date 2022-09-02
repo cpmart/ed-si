@@ -1,4 +1,4 @@
-ex1
-ex1.dSYM
+ex[0-99]
+ex[0-99].dSYM
 .DS_Score
-.DS_score
+
