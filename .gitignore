@@ -1,4 +1,4 @@
-ex[0-99]
-ex[0-99].dSYM
-.DS_Score
-
+.DS_Store
+.TemporaryItems
+Temporary Items
+*.exe
